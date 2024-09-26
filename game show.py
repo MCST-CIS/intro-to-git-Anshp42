@@ -77,7 +77,7 @@ print('you have' +points+ 'points')
 if int(points)>=3:
   print('you passed welcome to harvard')
 else:
-  print('you failed try again')
+  print('you failed go study')
 
            
     
