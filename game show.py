@@ -57,9 +57,8 @@ else:
 print('When was the battle of 300')
 sparta=str(input('1.480,2.300,3.1000,4.230'))
 if sparta.lower()=='2':
-    print('This is sparta')
-    points+=1
     print('you got points')
+    points+=1
 else:
     print('you are wrong')
 #Question 6 extra 
